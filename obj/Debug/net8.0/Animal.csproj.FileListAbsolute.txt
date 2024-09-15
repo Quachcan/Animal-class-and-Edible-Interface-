@@ -1,0 +1,14 @@
+/Applications/Document /Learning Unity/Animal/bin/Debug/net8.0/Animal
+/Applications/Document /Learning Unity/Animal/bin/Debug/net8.0/Animal.deps.json
+/Applications/Document /Learning Unity/Animal/bin/Debug/net8.0/Animal.runtimeconfig.json
+/Applications/Document /Learning Unity/Animal/bin/Debug/net8.0/Animal.dll
+/Applications/Document /Learning Unity/Animal/bin/Debug/net8.0/Animal.pdb
+/Applications/Document /Learning Unity/Animal/obj/Debug/net8.0/Animal.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Document /Learning Unity/Animal/obj/Debug/net8.0/Animal.AssemblyInfoInputs.cache
+/Applications/Document /Learning Unity/Animal/obj/Debug/net8.0/Animal.AssemblyInfo.cs
+/Applications/Document /Learning Unity/Animal/obj/Debug/net8.0/Animal.csproj.CoreCompileInputs.cache
+/Applications/Document /Learning Unity/Animal/obj/Debug/net8.0/Animal.dll
+/Applications/Document /Learning Unity/Animal/obj/Debug/net8.0/refint/Animal.dll
+/Applications/Document /Learning Unity/Animal/obj/Debug/net8.0/Animal.pdb
+/Applications/Document /Learning Unity/Animal/obj/Debug/net8.0/Animal.genruntimeconfig.cache
+/Applications/Document /Learning Unity/Animal/obj/Debug/net8.0/ref/Animal.dll
